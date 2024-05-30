@@ -21,8 +21,9 @@ BuildRequires:	libtool >= 2:2.2
 BuildRequires:	libxml2-progs >= 2.0
 BuildRequires:	pkgconfig
 BuildRequires:	pluma-devel >= 1.25.3
-BuildRequires:	python-dbus-devel >= 0.82
+BuildRequires:	python3 >= 1:3
 BuildRequires:	python3-devel >= 1:3
+BuildRequires:	python3-dbus
 BuildRequires:	python3-pygobject3 >= 3.0
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(find_lang) >= 1.36
